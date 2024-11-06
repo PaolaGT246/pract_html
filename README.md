@@ -1,4 +1,5 @@
 #practica 1de html.
+
 #codigo
 ![image](https://github.com/user-attachments/assets/d45df218-d165-4fa9-978b-49f818dbbbaf)
 
